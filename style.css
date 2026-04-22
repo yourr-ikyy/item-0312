@@ -489,3 +489,26 @@ html {
     font-size: 1.3rem;
   }
 }
+@media (max-width: 480px) {
+
+  body {
+    font-size: 18px;
+    line-height: 1.6;
+  }
+
+  h1 { font-size: 1.8rem; }
+  h2 { font-size: 1.5rem; }
+  h3 { font-size: 1.3rem; }
+
+  p {
+    font-size: 1.05rem;
+  }
+
+  .math {
+    font-size: 1.4rem;
+  }
+
+  .mini-log {
+    font-size: 0.95rem;
+  }
+}
